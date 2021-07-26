@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tyler from Tylers Tech Services.
-- 👀 I’m interested in white hat hacking and networking.
-- 🌱 I’m currently learning code and networks.
+- 👀 I’m interested in white hat hacking and coding.
+- 🌱 I’m currently learning code and networking.
 - 💞️ I’m looking to collaborate with anyone, always ready and willing to learn new things.
 - 📫 How to reach me tylerstechservices2020@gmail.com 
 
