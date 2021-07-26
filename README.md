@@ -2,7 +2,7 @@
 - 👀 I’m interested in white hat hacking and networking.
 - 🌱 I’m currently learning code and networks.
 - 💞️ I’m looking to collaborate with anyone, always ready and willing to learn new things.
-- 📫 How to reach me https://www.facebook.com/TylersTechService2020
+- 📫 How to reach me tylerstechservices2020@gmail.com 
 
 <!---
 TylersTech2020/TylersTech2020 is a cow special pie repository because its `README.md` (this file) appears on your GitHub profile.
