@@ -3,8 +3,6 @@
 🌱 I’m currently learning code and networking.
 💞️ I’m looking to collaborate with anyone, always ready and willing to learn new things. 
 
-<script src="https://tryhackme.com/badge/572047"></script>
-
 - tylerstechservices2020@gmail.com
 
 <!---
