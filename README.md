@@ -1,7 +1,12 @@
-👋 Hi, I’m Tyler from Tyler's Tech.
-👀 I’m interested in hacking and coding.
-🌱 I’m currently learning networking && security.
-💞️ I’m looking to collaborate with anyone, always ready and willing to learn new things. 
+-👋 Hi, I’m Tyler from Tyler's Tech.
+
+-👀 I’m interested in hacking and coding.
+
+-🌱 I’m currently learning networking && security.
+
+-💞️ I’m looking to collaborate with anyone, always ready and willing to learn new things. 
+
+
 
 - tylerstechservices2020@gmail.com
 
