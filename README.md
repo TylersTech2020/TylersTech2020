@@ -2,9 +2,14 @@
 
 -👀 I’m interested in hacking and coding.
 
--🌱 I’m currently learning networking && security.
+-🌱 I’m currently learning networking && security via THM.
 
 -💞️ I’m looking to collaborate with anyone, always ready and willing to learn new things. 
+
+
+
+![THMbadge](https://user-images.githubusercontent.com/76822021/137948776-2fe524c3-accd-494f-8dec-f9b65116b72a.png)
+
 
 
 <!---
