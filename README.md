@@ -7,6 +7,12 @@
 -💞️ I’m looking to collaborate with anyone, always ready and willing to learn new things. 
 
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/LawlessCarrot.png" alt="TryHackMe">
+
+<img scr=https://img.shields.io/badge/Facebook-%40TylersTech2020-blue>
+
+
+
 tylerstechservices2020@gmail.com
 <!---
 TylersTech2020/TylersTech2020 is a cow special pie repository because its `README.md` (this file) appears on your GitHub profile.
