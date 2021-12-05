@@ -13,7 +13,7 @@
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/TylersTech2020?style=social">
 
-[![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=TylersTech2020)](https://github.com/anuraghazra/github-readme-stats)
+[![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=TylersTech2020&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
