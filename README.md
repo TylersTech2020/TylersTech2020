@@ -11,6 +11,8 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=TylersTech2020.TylersTech2020&left_color=green&right_color=red)
 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/TylersTech2020?style=social">
+
 
 tylerstechservices2020@gmail.com
 <!---
