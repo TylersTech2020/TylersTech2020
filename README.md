@@ -9,7 +9,8 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/LawlessCarrot.png" alt="TryHackMe">
 
-<img scr=https://img.shields.io/badge/Facebook-%40TylersTech2020-blue>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
 
 tylerstechservices2020@gmail.com
 <!---
