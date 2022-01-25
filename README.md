@@ -15,6 +15,8 @@ tylerstechservices2020@gmail.com
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/LawlessCarrot.png" alt="TryHackMe">
 
+https://tryhackme.com/p/LawlessCarrot
+
 [![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=TylersTech2020&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
