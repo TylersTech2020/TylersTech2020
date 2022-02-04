@@ -1,8 +1,8 @@
 -👋 Hi, I’m Tyler from Tyler's Tech.
 
--👀 I’m interested in hacking and coding.
+-👀 I’m interested in penetration testing and coding.
 
--🌱 I’m currently learning networking && security via THM.
+-🌱 I’m currently learning networking && security via Udemy and THM.
 
 -💞️ I’m looking to collaborate with anyone, always ready and willing to learn new things. 
 
