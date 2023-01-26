@@ -16,7 +16,9 @@ tylerstechservices2020@gmail.com
 <img src="https://tryhackme-badges.s3.amazonaws.com/LawlessCarrot.png" alt="TryHackMe">
 
 https://tryhackme.com/p/LawlessCarrot
+
 https://www.linkedin.com/in/tylermiller89/
+
 https://www.facebook.com/TylersTechService2020
 
 
