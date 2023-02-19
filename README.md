@@ -2,7 +2,7 @@
 
 -👀 I’m interested in penetration testing and coding.
 
--🌱 I’m currently learning networking && security via Udemy HTB and THM.
+-🌱 I’m currently learning networking && security via Udemy, HTB and THM.
 
 -💞️ I’m looking to collaborate with anyone, always ready and willing to learn new things. 
 
