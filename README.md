@@ -17,10 +17,6 @@ tylerstechservices2020@gmail.com
 
 https://tryhackme.com/p/LawlessCarrot
 
-https://www.linkedin.com/in/tylermiller89/
-
-https://www.facebook.com/TylersTechService2020
-
 
 
 
