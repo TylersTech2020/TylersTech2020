@@ -6,7 +6,6 @@
 
 -💞️ I’m looking to collaborate with anyone, always ready and willing to learn new things. 
 
-tylerstechservices2020@gmail.com
 
 
 ![](https://komarev.com/ghpvc/?username=TylersTech2020&color=blue)
