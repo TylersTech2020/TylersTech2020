@@ -12,7 +12,8 @@
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/TylersTech2020?style=social">
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/LawlessCarrot.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/LawlessCarrot.png" alt="Your Image Badge" />
+
 
 
 
