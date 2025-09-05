@@ -10,7 +10,7 @@ Currently, I run Tyler’s Tech Service, providing:
 
 🎨 Web design & development
 
-I’m also expanding into cybersecurity, programming, and penetration testing, sharpening my skills on platforms like TryHackMe, HackTheBox, and Udemy. What began as curiosity has evolved into a drive to grow in the fields of IT security and software development.
+I’m also expanding into cybersecurity, programming, and penetration testing, sharpening my skills on platforms like TryHackMe, HackTheBox, and Udemy. What began as curiosity has evolved into a drive to grow in the fields of IT security and software development. Most recently joining HackerOne officially starting a side gig as a Bug Bounty Hunter. 
 
 Outside of tech, I enjoy sports, adventure, photography, and travel. Most importantly, I’m a proud dad; sharing the world with my son while still being a lifelong gamer at heart.
 
